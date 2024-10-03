@@ -1,2 +1,2 @@
 # Repositorio_Selenium
-Estudando sobre Selenium
+Learning about Selenium package in Python.
